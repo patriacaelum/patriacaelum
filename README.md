@@ -9,8 +9,8 @@
 ## Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-blue?logo=c++&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PYTHON-yellow?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-0080cd?logo=c++&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PYTHON-ffd140?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DOCKER-blue?logo=docker&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GITLAB-blue?logo=gitlab&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LINUX-blue?logo=linux&logoColor=white&style=for-the-badge"/>
