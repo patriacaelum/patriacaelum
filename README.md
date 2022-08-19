@@ -66,8 +66,8 @@ combines programming and number crunching.
 
 # GitHub Stats
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=patriacaelum&theme=one-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriacaelum&count_private=true&show_icons=true&theme=onedark)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=patriacaelum&theme=one-dark)]
 
 
 # Current Projects
@@ -78,7 +78,7 @@ combines programming and number crunching.
 
 ## Currently Reading
 
-- **Modern C++ Design: Generic Programming and Design Patterns Applied** by Andrei Alexandrescu
 - **Classical Mechanics** by Herbert Goldstein
-- **Wonderbook: The Illustrated Guide to Creating Imaginative Fiction** by Jeff Vandermeer
+- **Modern C++ Design: Generic Programming and Design Patterns Applied** by Andrei Alexandrescu
 - **Reharmonization Techniques** by Randy Felts
+- **Wonderbook: The Illustrated Guide to Creating Imaginative Fiction** by Jeff Vandermeer
