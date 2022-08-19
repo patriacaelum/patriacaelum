@@ -40,33 +40,37 @@ combines programming and number crunching.
 ### Python Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DJANGO-103e2e?logo=django&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NUMPY-0721a0?logo=numpy&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PANDAS-120653?logo=pandas&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SCIKIT-LEARN-f89838?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SCIPY-0d56a6?logo=scipy&logoColor=white&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/DJANGO-103e2e?logo=django&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+</p>
+
 ## Music, Art, and Writing
 
 <p align="center">
   <img src="https://img.shields.io/badge/BANDLAB-df3712?logo=bandlab&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MUSESCORE-1370b9?logo=musescore&logoColor=white&style=for-the-badge"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/KRITA-4d4d4b?logo=krita&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LATEX-008081?logo=latex&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MUSESCORE-1370b9?logo=musescore&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OBSIDIAN-4a37a0?logo=obsidian&logoColor=white&style=for-the-badge"/>
 </p>
 
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriacaelum&count_private=true&show_icons=true&them=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriacaelum&count_private=true&show_icons=true&theme=onedark)
 
 
 # Current Projects
 
 - [A 2D game engine](https://gitlab.com/patriacaelum/trashpile) written in C++
 - Learning rust
-- Composing and recording music with my band, [The Cockroaches](https://www.youtube.com/channel/U)
-
+- Composing and recording music with my band, [The Cockroaches](https://www.youtube.com/channel/UCllEpb4zXF4CpdW-8duYYOQ)
