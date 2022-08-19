@@ -42,7 +42,7 @@ combines programming and number crunching.
 <p align="center">
   <img src="https://img.shields.io/badge/NUMPY-0721a0?logo=numpy&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PANDAS-120653?logo=pandas&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SCIKIT-LEARN-f89838?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SCIKIT LEARN-f89838?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SCIPY-0d56a6?logo=scipy&logoColor=white&style=for-the-badge"/>
 </p>
 
