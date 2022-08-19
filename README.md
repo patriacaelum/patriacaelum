@@ -28,7 +28,7 @@ combines programming and number crunching.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MONGODB-000000?logo=mongodb&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MONGODB-7fc682?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/POSTGRESQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
 </p>
 
