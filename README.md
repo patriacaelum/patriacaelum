@@ -67,6 +67,7 @@ combines programming and number crunching.
 # GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriacaelum&count_private=true&show_icons=true&theme=onedark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=patriacaelum&theme=one-dark)]
 
 
 # Current Projects
@@ -74,3 +75,10 @@ combines programming and number crunching.
 - [A 2D game engine](https://gitlab.com/patriacaelum/trashpile) written in C++
 - Learning rust
 - Composing and recording music with my band, [The Cockroaches](https://www.youtube.com/channel/UCllEpb4zXF4CpdW-8duYYOQ)
+
+## Currently Reading
+
+- **Modern C++ Design: Generic Programming and Design Patterns Applied** by Andrei Alexandrescu
+- **Classical Mechanics** by Herbert Goldstein
+- **Wonderbook: The Illustrated Guide to Creating Imaginative Fiction** by Jeff Vandermeer
+- **Reharmonization Techniques** by Randy Felts
