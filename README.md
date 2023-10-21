@@ -66,7 +66,7 @@ combines programming and number crunching.
 
 # GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=patriacaelum&theme=one-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patriacaelum&theme=one-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriacaelum&count_private=true&show_icons=true&theme=onedark)
 
 
